@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou estudando para ser um futuro programador Back-end
+- 🔭 Futuro programador Full stack
 - 🌱 Estudando Flutter
 - 📫 Cantato no e-mail Kepler.batista456@gmail.com 
 
