@@ -3,7 +3,7 @@
 
 
 - 🔭 Futuro programador Full stack
-- 🌱 Estudando Flutter
+- 🌱 Estudando Flutter e node
 - 📫 Cantato no e-mail Kepler.batista456@gmail.com 
 
  <div>
